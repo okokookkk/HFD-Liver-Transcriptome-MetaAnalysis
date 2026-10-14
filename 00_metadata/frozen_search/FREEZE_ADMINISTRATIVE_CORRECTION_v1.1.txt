@@ -1,0 +1,34 @@
+HFD DATASET UNIVERSE FREEZE — ADMINISTRATIVE CORRECTION V1.1
+=============================================================
+
+Original freeze version:
+v1
+
+Administrative correction:
+The freeze date recorded as 2026-08-18 in the original generated
+freeze metadata was a date-entry error.
+
+Correct freeze date:
+2026-08-19 (Asia/Seoul)
+
+Scientific content affected:
+NONE
+
+Dataset accessions affected:
+NONE
+
+Eligibility decisions affected:
+NONE
+
+Primary universe affected:
+NONE
+
+Frozen primary universe remains:
+107 GSE
+- PRIMARY_HFD_CORE: 68
+- PRIMARY_HFD_PLUS_INTERVENTION: 39
+
+Reason for retaining original v1:
+The original frozen files are retained unchanged to preserve
+the provenance trail. This v1.1 note documents only the
+administrative date correction.

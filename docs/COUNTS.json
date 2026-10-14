@@ -1,0 +1,33 @@
+{
+  "candidate_script_count": 89,
+  "excluded_presentation_scripts": true,
+  "verified_end_to_end": false,
+  "script_files_by_directory": {
+    "geo_search": 7,
+    "scripts": 73,
+    "reviewer_sensitivity": 8,
+    "tools": 1
+  },
+  "frozen_metadata_files": 10,
+  "source_scripts_portability_patched": 67,
+  "includes_Figure_rendering_scripts": false,
+  "python_AST_checked": 66,
+  "shell_bash_n_checked": 5,
+  "R_parse_checked": true,
+  "R1C14_FEOO_logistic_verified": true,
+  "R_parse_checked_count": 18,
+  "validated_server_stages": [
+    "1",
+    "2A",
+    "2B",
+    "2C",
+    "2D",
+    "3A",
+    "3B",
+    "3C",
+    "3D",
+    "3E"
+  ],
+  "downstream_full_mouse_human_concordance_validated": true,
+  "server_stage3e_nonkey_fields_compared": 426487
+}

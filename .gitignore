@@ -1,0 +1,54 @@
+# Python / R / system-generated files
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
+
+# Local environments, secrets and keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Local logs and temporary artifacts
+*.log
+logs/
+tmp/
+temp/
+.cache/
+outputs/
+validation_stage*/
+HFD_release_validation_*/
+
+# Sequence and alignment files: retrieve from GEO/SRA; do not commit to Git
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.bam
+*.sam
+*.cram
+*.bai
+
+# Derived analysis data and graphics are archived separately, not in Git
+01_raw/
+01_processed/
+02_qc/
+03_counts/
+04_de/
+05_meta/
+06_pathway/
+07_human_validation/
+08_figures/
+09_supplementary/
+
+# Local scratch archives
+*.tar
+*.tar.gz
+*.zip

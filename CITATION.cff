@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite this software repository and the associated research article when available."
+title: "HFD mouse liver RNA-seq meta-analysis: analysis code and reproducibility documentation"
+type: software
+authors:
+  - family-names: Chung
+    given-names: Oksung
+repository-code: "https://github.com/okokookkk/HFD-Liver-Transcriptome-MetaAnalysis"
+license: MIT
+version: "1.0.0"
+keywords:
+  - high-fat diet
+  - mouse liver
+  - RNA-seq
+  - meta-analysis
+  - reproducibility

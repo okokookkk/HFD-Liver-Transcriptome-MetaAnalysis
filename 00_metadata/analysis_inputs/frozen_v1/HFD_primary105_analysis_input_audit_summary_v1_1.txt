@@ -1,0 +1,36 @@
+===== HFD PRIMARY105 ANALYSIS-INPUT AUDIT v1.1 =====
+
+FINAL_STATUS=PASS
+Production_GSE=64
+Frozen_contrasts=105
+Frozen_GSM=837
+Frozen_SRR=951
+Frozen_FASTQ=1902
+Constructable_contrasts=105/105
+
+GSE_with_multiple_contrasts=10/64
+Maximum_contrasts_per_GSE=12
+GSM_reused_across_contrasts=0
+Maximum_contrasts_using_one_GSM=1
+Contrasts_with_any_shared_GSM=0/105
+
+Moderator_master=HFD_primary105_moderator_manual_adjudication_batch11_v1.tsv
+Moderator_Contrast_id_join=105/105 PASS
+Nonblank_hfd_duration_weeks_final=76/105
+Nonblank_sex_final=72/105
+Nonblank_strain_final=66/105
+Nonblank_hfd_fat_kcal_percent_final=77/105
+Nonblank_control_diet_type_final=73/105
+
+Membership_SHA256=ce1b78bb4799eca4244b8c9f0061d284a815a7f48097c2f8d6b69375ce948b49
+
+Contrast_membership=00_metadata/analysis_inputs/frozen_v1/HFD_primary105_contrast_GSM_membership_v1_1.tsv
+Contrast_analysis_audit=00_metadata/analysis_inputs/frozen_v1/HFD_primary105_contrast_analysis_input_audit_v1_1.tsv
+GSE_contrast_multiplicity=00_metadata/analysis_inputs/frozen_v1/HFD_primary64_GSE_contrast_multiplicity_v1_1.tsv
+Shared_GSM_audit=00_metadata/analysis_inputs/frozen_v1/HFD_primary105_shared_GSM_audit_v1_1.tsv
+Moderator_join=00_metadata/analysis_inputs/frozen_v1/HFD_primary105_moderator_join_v1_1.tsv
+
+NO_DIFFERENTIAL_EXPRESSION_PERFORMED=YES
+FROZEN_MEMBERSHIP_MODIFIED=NO
+MODERATOR_MASTER_MODIFIED=NO
+FINAL_COUNT_MATRICES_MODIFIED=NO
