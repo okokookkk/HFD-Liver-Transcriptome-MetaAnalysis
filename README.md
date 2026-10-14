@@ -15,7 +15,7 @@ The dataset also provides `ZENODO_ARCHIVE_SHA256.tsv` and `ZENODO_SOURCE_SHA256.
 
 ## What is included
 
-- `geo_search/`: historical GEO search terms and screening-support scripts. These do **not** fully reconstruct manual screening from 671 strict GEO results to 107 candidates.
+- `geo_search/`: historical GEO search terms and screening-support scripts. 
 - `scripts/`: selected 107-candidate GEO sample–run mapping, acquisition, RNA-seq production, manual-metadata adjudication, mouse DESeq2/multilevel REML/core, moderator, Hallmark pathway, human meta-analysis and ortholog/concordance scripts. Original versioned filenames are preserved.
 - `reviewer_sensitivity/`: **8** additional revision analyses, including threshold/LOO, heterogeneity, GSE-aggregate REML, moderator confounding, human cohort-exclusion FE logistic sensitivity, and apeglm shrinkage.
 - `00_metadata/`: selected frozen accession, study-design, and curation metadata. Large frozen analytical inputs and result tables are provided separately through the Zenodo Dataset; complete raw/count and intermediate inputs are not bundled.
