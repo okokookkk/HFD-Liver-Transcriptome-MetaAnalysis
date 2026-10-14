@@ -4,7 +4,7 @@
 
 ## Associated frozen data (Zenodo)
 
-Frozen analysis inputs, derived outputs, sensitivity results, and reference annotations are deposited separately as four data archives in a Zenodo Dataset. **Reserved Dataset DOI:** `10.5281/zenodo.23355111` (not registered or citable until the Zenodo record is published). After publication, the dataset can be accessed at `https://doi.org/10.5281/zenodo.23355111`.
+Frozen analysis inputs, derived outputs, sensitivity results, and reference annotations are deposited separately as four data archives in a Zenodo Dataset. **Reserved Dataset DOI:** `10.5281/zenodo.23355111`. After publication, the dataset can be accessed at `https://doi.org/10.5281/zenodo.23355111`.
 
 - `HFD_01_analysis_inputs_v1.zip`: 15 frozen analytical input files, including full contrast-level meta-analysis effects.
 - `HFD_02_analysis_results_v1.zip`: 33 analysis result files.
